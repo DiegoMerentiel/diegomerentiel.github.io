@@ -2,7 +2,7 @@
   "name": "diegomerentiel",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://diekkan.github.io/",
+  "homepage": "https://diegomerentiel.github.io/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
